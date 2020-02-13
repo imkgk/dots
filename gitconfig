@@ -1,6 +1,6 @@
 [user]
-  name = lizhe
-  email = lnz013@qq.com
+  name = imkgk
+  email = lnz013@gmail.com
 [color]
   ui = true
 [alias]
@@ -58,10 +58,10 @@
   tags = tag -n10
   export = archive --format zip master --output
 [push]
-	default = simple
+  default = simple
 [filter "lfs"]
-	clean = git-lfs clean %f
-	smudge = git-lfs smudge %f
-	required = true
+  clean = git-lfs clean %f
+  smudge = git-lfs smudge %f
+  required = true
 [core]
-	editor = /usr/bin/vim
+  editor = /usr/bin/vim
