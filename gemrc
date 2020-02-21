@@ -1,3 +1,3 @@
 :sources:
-- https://ruby.taobao.org
-gem: --no-ri --no-rdoc
+- https://gems.ruby-china.com
+gem: --no-ri --no-rdoc --no-document
