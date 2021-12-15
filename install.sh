@@ -18,15 +18,6 @@ ln -s ~/.dots/gitconfig ~/.gitconfig
 
 echo
 echo ===============
-echo link gemrc
-echo ln -s ~/.dots/gemrc ~/.gemrc
-echo ===============
-echo
-
-ln -s ~/.dots/gemrc ~/.gemrc
-
-echo
-echo ===============
 echo link tmux.conf
 echo ln -s ~/.dots/tmux.conf ~/.tmux.conf
 echo ===============
